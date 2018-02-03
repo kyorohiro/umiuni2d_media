@@ -8,7 +8,9 @@ https://github.com/kyorohiro/umiuni2d_media_flutter/
 # Html
 https://github.com/kyorohiro/umiuni2d_media_html5/
 
-It's tiny interface
+
+
+This library has tiny interface.
 
 ```
 library umiuni2d_media;
