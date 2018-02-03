@@ -16,7 +16,7 @@ abstract class AudioPlayer {
   Future<AudioPlayer> prepare();
   Future<double> getCurrentTime();
   Future<AudioPlayer> seek(double currentTime);
-  Future<AudioPlayer> play({double currentTime=null});
+  Future<AudioPlayer> play();
   Future<AudioPlayer> pause();
   FutureOr<AudioPlayer> stop();
   Future<double> getVolume();
