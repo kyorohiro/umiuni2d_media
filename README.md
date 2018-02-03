@@ -1,22 +1,9 @@
 # umiuni2d_media
 
-A library for Dart developers.
+Audio library for HTML5 and Flutter.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+# Flutter
+https://github.com/kyorohiro/umiuni2d_media_flutter/
 
-## Usage
-
-A simple usage example:
-
-    import 'package:umiuni2d_media/umiuni2d_media.dart';
-
-    main() {
-      var awesome = new Awesome();
-    }
-
-## Features and bugs
-
-Please file feature requests and bugs at the [issue tracker][tracker].
-
-[tracker]: http://example.com/issues/replaceme
+# Html
+https://github.com/kyorohiro/umiuni2d_media_html5/
