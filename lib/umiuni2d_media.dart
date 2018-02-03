@@ -6,7 +6,7 @@ abstract class MediaManager {
   String get assetsRoot;
   Future<MediaManager> setupMedia(String path);
   Future<AudioPlayer> loadAudioPlayer(String playerId, String path);
-  Future<AudioPlayer> createAudio(String playerId, String path);
+  Future<AudioPlayer> createAudioPlayer(String playerId, String path);
   AudioPlayer getAudioPlayer(String id);
 }
 
