@@ -11,7 +11,7 @@ abstract class MediaManager {
 }
 
 abstract class AudioPlayer {
-  String get plyerId;
+  String get playerId;
   String get url;
   Future<AudioPlayer> prepare();
   Future<double> getCurrentTime();
